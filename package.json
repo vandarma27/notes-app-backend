@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/vandarma27/notes-app-backend#readme",
   "devDependencies": {
+    "eslint": "^8.27.0",
     "nodemon": "^2.0.20"
   }
 }
